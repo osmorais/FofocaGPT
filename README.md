@@ -1,2 +1,2 @@
 # FofocaGPT
-Crawler to interact with ChatGPT
+Exploring CHATGPT
