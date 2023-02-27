@@ -51,6 +51,7 @@ async function main() {
 
         process.stdout.write('\n---' + botRes.text)
     } while (userRes != 'tchau')
+    process.exit()
 }
 main().catch((err) => {
     console.error(err)
