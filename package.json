@@ -1,0 +1,16 @@
+{
+  "name": "fofocagpt",
+  "version": "1.0.0",
+  "description": "Crawler to interact with ChatGPT",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chatgpt": "^4.7.2",
+    "dotenv": "^16.0.3"
+  }
+}
